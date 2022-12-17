@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.241.134:1313/post/blog2/</loc>
+    <loc>https://jdiosj.github.io/post/blog2/</loc>
     <lastmod>2022-12-17T11:21:49+08:00</lastmod>
   </url><url>
-    <loc>http://192.168.241.134:1313/</loc>
+    <loc>https://jdiosj.github.io/</loc>
     <lastmod>2022-12-17T11:21:49+08:00</lastmod>
   </url><url>
-    <loc>http://192.168.241.134:1313/post/</loc>
+    <loc>https://jdiosj.github.io/post/</loc>
     <lastmod>2022-12-17T11:21:49+08:00</lastmod>
   </url><url>
-    <loc>http://192.168.241.134:1313/post/first-blog/</loc>
+    <loc>https://jdiosj.github.io/post/first-blog/</loc>
     <lastmod>2022-12-12T10:54:50+08:00</lastmod>
   </url><url>
-    <loc>http://192.168.241.134:1313/categories/</loc>
+    <loc>https://jdiosj.github.io/posts/first-blog/</loc>
+    <lastmod>2022-12-12T10:54:50+08:00</lastmod>
   </url><url>
-    <loc>http://192.168.241.134:1313/tags/</loc>
+    <loc>https://jdiosj.github.io/posts/</loc>
+    <lastmod>2022-12-12T10:54:50+08:00</lastmod>
+  </url><url>
+    <loc>https://jdiosj.github.io/categories/</loc>
+  </url><url>
+    <loc>https://jdiosj.github.io/tags/</loc>
   </url>
 </urlset>
